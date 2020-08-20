@@ -1,0 +1,89 @@
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+/*.google_logo {
+	position: relative;
+	height: 400px;
+	width: 400px;
+	margin: 40px auto;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.google_center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	height: 35%;
+	width: 35%;
+	background: #498AF4;
+	border: 10px solid #AAC5F3;
+	z-index: 4;
+}
+/*#4D4D4E #fe9720
+.google_top,
+.google_right,
+.google_left {
+	position: absolute;
+	height: 50%;
+	width: 100%;
+}
+.google_top {
+	top: 0;
+	background-color: #DD5145;
+	z-index: 1;
+}
+.google_right {
+	right: 0;
+	bottom: 0;
+	background-color: #FFCD41;
+	transform: rotate(90deg) translate(0px, 0px);
+	z-index: 3;
+}
+.google_left {
+	left: 0;
+	bottom: 0;
+	background-color: #15A05C;
+	transform: rotate(24deg) translate(-48px, 34px);
+	z-index: 2;
+}*/
+
+
+
+.sublime{
+	position: relative;
+	height: 400px;
+	widht: 400px;
+	margin: 40px auto;
+	border: 2px solid black;
+}
+.sublime_logo {
+	position: absolute;
+	height: 300px;
+	width: 300px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: 2px solid blue;
+}
+.sublime_logo_top,
+.sublime_logo_center,
+.sublime_logo_bottom {
+ 
+}
+
+
+
+
+
+
+
+
